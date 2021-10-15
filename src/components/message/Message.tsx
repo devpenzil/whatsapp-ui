@@ -11,7 +11,7 @@ function Message() {
             <div className="message-recieve">
                 Hi
             </div>
-            
+
            </div>
         </div>
     )

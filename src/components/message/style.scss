@@ -1,6 +1,6 @@
 .message{
     width: 100%;
-    height: fit-content;
+    height: 480px;
     background-image: url('../../assets/bg.png');
     background-color: #ECE5DD;
     background-blend-mode: soft-light;
@@ -34,3 +34,12 @@
     }
     
 }
+.message::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  /* Handle */
+  .message::-webkit-scrollbar-thumb {
+    background: rgb(156, 156, 156); 
+    border-radius: 0px;
+  }
