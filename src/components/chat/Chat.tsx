@@ -4,6 +4,7 @@ function Chat(props:any) {
    
     return (    
         <div className='chat'>
+            
             <div className='left'>
                 <img src={props.image} alt="" />
             </div>
