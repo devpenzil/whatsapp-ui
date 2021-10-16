@@ -5,6 +5,7 @@ import Message from '../../components/message/Message'
 import Compose from '../../components/compose/Compose'
 import LeftName from '../../components/leftname/LeftName'
 import Search from '../../components/search/Search'
+import ChatList from '../../components/chatlist/ChatList'
 function Home() {
     return (
         <div className="container">
@@ -12,6 +13,7 @@ function Home() {
             <div className="left-panel">
                 <LeftName />
                 <Search />
+                <ChatList />
             </div>
             <div className="right-panel">
                 <RightNamingPanel />

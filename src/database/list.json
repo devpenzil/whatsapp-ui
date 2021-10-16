@@ -1,0 +1,93 @@
+{ "list": [
+    {
+        "id":1,
+        "name": "Jack Daniels",
+        "image" : "https://images.pexels.com/photos/940585/pexels-photo-940585.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time": "3.58 pm",
+        "message": "i am coming",
+        "unread_count": null,
+        "read_value": true
+    },
+    {
+        "id":2,
+        "name": "Mack Ja",
+        "image" : "https://images.pexels.com/photos/1220757/pexels-photo-1220757.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time": "4.00 pm",
+        "message": "Yes its here",
+        "unread_count": 4,
+        "read_value": false
+    },
+    {
+        "id":3,
+        "name": "Aleena",
+        "image" : "https://images.pexels.com/photos/3118694/pexels-photo-3118694.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time": "4.00 pm",
+        "message": "Yes its here",
+        "unread_count": 2,
+        "read_value": false
+    },
+    {
+        "id":4,
+        "name": "Christopher",
+        "image" : "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time": "4.00 pm",
+        "message": "Yes its here",
+        "unread_count": null,
+        "read_value": true
+    },
+    {
+        "id":5,
+        "name": "Lisa",
+        "image" : "https://images.pexels.com/photos/1526814/pexels-photo-1526814.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time": "4.00 pm",
+        "message": "Yes its here",
+        "unread_count": 3,
+        "read_value": false
+    },
+    {
+        "id":6,
+        "name": "Samad",
+        "image" : "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time": "4.00 pm",
+        "message": "Yes its here",
+        "unread_count": 1,
+        "read_value": false
+    },
+    {
+        "id":7,
+        "name": "Drew Williams",
+        "image" : "https://images.pexels.com/photos/3098619/pexels-photo-3098619.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time": "4.00 pm",
+        "message": "Yes its here",
+        "unread_count": 3,
+        "read_value": false
+    },
+    {
+        "id":8,
+        "name": "Gloria Mathews",
+        "image" : "https://images.pexels.com/photos/2738919/pexels-photo-2738919.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time": "4.00 pm",
+        "message": "Yes its here",
+        "unread_count": null,
+        "read_value": true
+    },
+    {
+        "id":9,
+        "name": "James",
+        "image" : "https://images.pexels.com/photos/2613461/pexels-photo-2613461.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time": "4.00 pm",
+        "message": "Yes its here",
+        "unread_count": 1,
+        "read_value": false
+    },
+    {
+        "id":10,
+        "name": "Anna",
+        "image" : "https://images.pexels.com/photos/1493111/pexels-photo-1493111.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "time": "4.00 pm",
+        "message": "Yes its here",
+        "unread_count": null,
+        "read_value": true
+    }
+]
+ }
